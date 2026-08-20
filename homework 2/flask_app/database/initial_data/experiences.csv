@@ -1,0 +1,8 @@
+"experience_id","position_id","name","description","hyperlink","start_date","end_date"
+"1","2","AI Agents Project","Developed AI agent applications using Python and Flask as part of AI engineering projects.","https://github.com/hasanazir1/ai-agents","2026-01-01",NULL
+"2","2","Web Scraping Projects","Built web scraping applications using Python, BeautifulSoup, and data processing techniques.","","2025-01-01",NULL
+"4","2","Computer Networks Project","Designed and configured computer networks using Cisco Packet Tracer.","","2026-01-01",NULL
+"5","1","Customer Management System","Developed a telecom customer management system in Java using OOP concepts and building custom data structures from scratch.","","2025-09-01","2026-01-01"
+"6","1","Engineering Simulations & Numerical Analysis","Applied MATLAB software for analyzing engineering systems, programming scripts, and numerical data processing.","","2026-03-01",NULL
+"7","2","Customer Personality Analysis","Performed customer segmentation and personality analysis on marketing data using clustering algorithms, including data cleaning and exploratory analysis.","https://github.com/hasanazir1/ML-Assignment2-Customer-Personality/tree/main","2025-01-01",NULL
+"8","2","House Prices Preprocessing","Performed data preprocessing and feature engineering on a housing dataset, handling missing values and preparing data for regression modeling.","https://github.com/hasanazir1/House-Prices-Preprocessing/tree/main","2025-01-01",NULL
